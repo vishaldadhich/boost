@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/boost1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/main1.dir/includes_CXX.rsp -g -o CMakeFiles\\main1.dir\\main.cpp.obj -c D:\\boost1\\main.cpp",
+  "file": "D:/boost1/main.cpp",
+  "output": "CMakeFiles/main1.dir/main.cpp.obj"
+}
+]
